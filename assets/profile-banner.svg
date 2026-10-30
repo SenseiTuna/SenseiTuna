@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Tuna Girgin</title>
+  <desc id="desc">SenseiTuna. Games, browser tools, and image processing.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#073b32"/><stop offset="0.55" stop-color="#075c45"/><stop offset="1" stop-color="#087866"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#beff68"/><stop offset="1" stop-color="#5dffd0"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#97ffb2" stroke-opacity="0.09"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="12" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="12" fill="url(#grid)"/>
+  <circle cx="1170" cy="40" r="235" fill="none" stroke="#74ffb6" stroke-opacity="0.20"/>
+  <circle cx="1170" cy="40" r="185" fill="none" stroke="#74ffb6" stroke-opacity="0.14"/>
+  <circle cx="0" cy="340" r="150" fill="none" stroke="#beff68" stroke-opacity="0.20"/>
+  <g fill="#beff68"><rect x="83" y="85" width="14" height="14"/><rect x="103" y="105" width="14" height="14" opacity="0.5"/><rect x="1055" y="235" width="14" height="14"/><rect x="1075" y="215" width="14" height="14" opacity="0.5"/></g>
+  <g fill="#62ffd0" opacity="0.7"><rect x="160" y="260" width="8" height="8"/><rect x="1080" y="90" width="8" height="8"/><rect x="1010" y="280" width="8" height="8"/></g>
+  <path d="M475 67H725" stroke="url(#accent)" stroke-width="4"/>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="106" font-size="16" letter-spacing="5" fill="#beff68">SENSEITUNA / BUILD. PLAY. EXPERIMENT.</text>
+    <text x="600" y="187" font-size="62" font-weight="600" letter-spacing="-2" fill="#f0fff5">Tuna Girgin</text>
+    <text x="600" y="234" font-size="23" fill="#d3ffe7">Games, browser tools, and image processing.</text>
+    <text x="600" y="288" font-size="16" letter-spacing="2" fill="#a4efc8">C#  /  UNITY  /  PYTHON  /  JAVASCRIPT</text>
+  </g>
+</svg>
